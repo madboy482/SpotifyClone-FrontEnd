@@ -4,10 +4,10 @@
 - [Video](#video)
 
 ## Screenshot: 
-![image](https://github.com/user-attachments/assets/5a40862f-4a5f-48ad-b94c-f8ebfab21f9f)
+![Screenshot 2024-09-09 172526](https://github.com/user-attachments/assets/f2d663d9-c8bd-469a-844e-f7d5bd7e02f5)
 
 --- 
 ---
 
 ## Video:
-https://github.com/user-attachments/assets/3a162745-6bd9-40a2-90a6-9c6f54610583
+https://github.com/user-attachments/assets/2b54e38c-9ec8-4b1c-92ba-7c42dbe3b807
